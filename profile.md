@@ -1,6 +1,6 @@
 ---
 name: Juan Pérez
-avatar: https://avatars.githubusercontent.com/u/12345678
+avatar: https://avatars.githubusercontent.com/u/30436794
 about: Full Stack Developer specialized in PocketMine-MP | 5+ years of experience
 projects:
   - name: EconomyPro Plugin
