@@ -119,7 +119,7 @@ Complete clan management with territories, wars, alliances, and leveling system.
 **Response time:** Less than 24 hours
 
 **Discord:** vxrq_ (Preferred)
-**GitHub:** [@juanperezdev](https://github.com/ImAMadDev)
+**GitHub:** [@AppGallery](https://github.com/ImAMadDev)
 
 ### 🌍 Languages
 
