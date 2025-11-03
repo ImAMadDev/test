@@ -1,5 +1,5 @@
 ---
-name: Juan Pérez
+name: AppGallery
 avatar: https://avatars.githubusercontent.com/u/30436794
 about: Full Stack Developer specialized in PocketMine-MP | 5+ years of experience
 projects:
@@ -16,13 +16,12 @@ projects:
     price: 100
     link: https://github.com/user/minigames
 contact:
-  discord: JuanDev#1234
-  website: https://juanperez.dev
+  discord: vxrq_
 ---
 
 ## 👋 About Me
 
-Hello! I'm Juan, a passionate developer creating innovative solutions for PocketMine-MP servers. With over 5 years of experience in the PMMP ecosystem, I've developed numerous plugins and systems that have helped hundreds of servers improve their gaming experience.
+Hello! I'm AppGallery, a passionate developer creating innovative solutions for PocketMine-MP servers. With over 5 years of experience in the PMMP ecosystem, I've developed numerous plugins and systems that have helped hundreds of servers improve their gaming experience.
 
 ### 🎯 Experience
 
@@ -119,19 +118,17 @@ Complete clan management with territories, wars, alliances, and leveling system.
 **Availability:** Monday to Friday, 9 AM - 6 PM (UTC-5)
 **Response time:** Less than 24 hours
 
-**Discord:** JuanDev#1234 (Preferred)
-**Website:** [juanperez.dev](https://juanperez.dev)
-**GitHub:** [@juanperezdev](https://github.com/juanperezdev)
+**Discord:** vxrq_ (Preferred)
+**GitHub:** [@juanperezdev](https://github.com/ImAMadDev)
 
 ### 🌍 Languages
 
 - 🇪🇸 Spanish (Native)
-- 🇺🇸 English (Fluent)
-- 🇵🇹 Portuguese (Basic)
+- 🇺🇸 English (Basic)
 
 ### ⭐ Testimonials
 
-> "Juan developed an incredible economy system for our server. Very professional and the code is high quality." - **MegaServer Network**
+> "AppGallery developed an incredible economy system for our server. Very professional and the code is high quality." - **MegaServer Network**
 
 > "Excellent developer, met all deadlines and the plugin works perfectly." - **SkyBlock Pro**
 
